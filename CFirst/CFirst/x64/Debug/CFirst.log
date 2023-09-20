@@ -1,0 +1,7 @@
+﻿  CFirst.cpp
+C:\Users\benesvojtech\Desktop\C++\CFirst\CFirst\CFirst.cpp(45,9): warning C4477: printf: Formátovací řetězec %i vyžaduje argument typu int, ale variadický argument 2 má typ int *.
+C:\Users\benesvojtech\Desktop\C++\CFirst\CFirst\CFirst.cpp(45,9): warning C4313: printf: %i ve formátovacím řetězci je v konfliktu s argumentem 2 typu int *
+C:\Users\benesvojtech\Desktop\C++\CFirst\CFirst\CFirst.cpp(46,9): warning C4477: printf: Formátovací řetězec %i vyžaduje argument typu int, ale variadický argument 1 má typ int **.
+C:\Users\benesvojtech\Desktop\C++\CFirst\CFirst\CFirst.cpp(46,9): warning C4313: printf: %i ve formátovacím řetězci je v konfliktu s argumentem 1 typu int **
+C:\Users\benesvojtech\Desktop\C++\CFirst\CFirst\CFirst.cpp(23,8): warning C4101: p_b: neodkazovaná lokální proměnná
+  CFirst.vcxproj -> C:\Users\benesvojtech\Desktop\C++\CFirst\x64\Debug\CFirst.exe
